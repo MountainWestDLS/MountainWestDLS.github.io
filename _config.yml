@@ -9,18 +9,18 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
+title: Mountain West Data Librarian Symposium
+subtitle: "MWDLS"
+email: mountaindatalibrarian@gmail.com
+name: MWDLS
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  Official website of the Mountain West Data Librarian Symposium
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https//mountainwestdls.github.io" # the base hostname & protocol for your site
-cover: "/assets/header_image.jpg"
+cover: "/assets/radhakrishna.jpg"
 logo: "/assets/logo.png"
 
 # Build settings
