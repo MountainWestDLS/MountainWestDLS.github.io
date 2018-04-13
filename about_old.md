@@ -1,7 +1,8 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About_old
+permalink: /about_old/
+main_nav: false
 ---
 
 <img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
