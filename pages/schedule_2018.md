@@ -1,5 +1,5 @@
 ---
 layout: page
 title: Schedule
-permalink: /about_2018/
+permalink: /schedule_2018/
 ---
