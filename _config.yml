@@ -10,9 +10,9 @@ exclude:
 
 # Site settings
 title: Mountain West Data Librarian Symposium
-subtitle: "MWDLS"
+subtitle: "August 2-3, 2018"
 email: mountaindatalibrarian@gmail.com
-name: MWDLS
+name: Mountain West Data Librarian Symposium
 description: >
   Official website of the Mountain West Data Librarian Symposium
 # Base URL of site (i.e. /blog). It should always start with a slash,
@@ -21,7 +21,7 @@ description: >
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https//mountainwestdls.github.io" # the base hostname & protocol for your site
 cover: "/assets/radhakrishna.jpg"
-logo: "/assets/logo.png"
+logo: ""
 
 # Build settings
 markdown: kramdown
@@ -72,8 +72,8 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    username: MountainDataLib
+    url: https://twitter.com/mountaindatalib
     desc: Follow me on Twitter
     share: true
 
@@ -86,15 +86,15 @@ social:
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
-    desc: Fork me on GitHub
+    username: MountainWestDLS
+    url: https://github.com/MountainWestDLS/MountainWestDLS.github.io/
+    desc: GitHub source
     share: false
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    username:
+    url:
     desc: Connect with me on LinkedIn
     share: true
 
