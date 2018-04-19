@@ -10,7 +10,7 @@ exclude:
 
 # Site settings
 title: Mountain West Data Librarian Symposium
-subtitle: "August 2-3, 2018"
+subtitle: "August 13-14, 2018"
 email: mountaindatalibrarian@gmail.com
 name: Mountain West Data Librarian Symposium
 description: >
@@ -19,7 +19,7 @@ description: >
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "https//mountainwestdls.github.io" # the base hostname & protocol for your site
+url: "https://mountainwestdls.github.io" # the base hostname & protocol for your site
 cover: "/assets/radhakrishna.jpg"
 logo: "/assets/logo_blank.png"
 
