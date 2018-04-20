@@ -1,4 +1,10 @@
-# Centrarium [![Circle CI](https://circleci.com/gh/bencentra/centrarium/tree/master.svg?style=svg)](https://circleci.com/gh/bencentra/centrarium/tree/master)
+# Mountain West Data Librarian Symposium
+
+This is the source for the Mountain West Data Librarian Symposium page. The page is based on the Jekyll them Centrarium with some modifications to remove posts, RSS, and other small tweaks (see commit history)
+
+---------------------------------
+
+# Centrarium
 
 A simple yet classy theme for your Jekyll website or blog. Customizable to fit your style or brand.
 
