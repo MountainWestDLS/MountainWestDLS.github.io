@@ -11,7 +11,7 @@ exclude:
 # Site settings
 title: Mountain West Data Librarian Symposium
 subtitle: "August 13-14, 2018"
-email: mountaindatalibrarian@gmail.com
+email:
 name: Mountain West Data Librarian Symposium
 description: >
   Official website of the Mountain West Data Librarian Symposium
