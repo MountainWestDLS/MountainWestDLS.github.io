@@ -1,6 +1,13 @@
 # Mountain West Data Librarian Symposium
 
-This is the source for the Mountain West Data Librarian Symposium page. The page is based on the Jekyll them Centrarium with some modifications to remove posts, RSS, and other small tweaks (see commit history)
+This is the source for the Mountain West Data Librarian Symposium page. The page is based on the Jekyll them Centrarium with some modifications 
+- [remove posts](https://github.com/MountainWestDLS/MountainWestDLS.github.io/commit/c6220dec64e9f92f2f975935d1c80222a746a1e3)
+- [remove RSS](https://github.com/MountainWestDLS/MountainWestDLS.github.io/commit/943d0bbe667de18aebc0b3f4a69facd3c3c7a60c)
+- ability to [sort pages in nav bar](https://github.com/MountainWestDLS/MountainWestDLS.github.io/commit/9040219e977eae9a36690f3dfdd829dbaedaa46c)
+- [typography](https://github.com/MountainWestDLS/MountainWestDLS.github.io/commit/dc41d2a907285ad34fd0eefff23315256e5946e5) and [color](https://github.com/MountainWestDLS/MountainWestDLS.github.io/commit/37acd3715fd53b20f77522242fc527c79c47fa97#diff-9d65ba1563450fda5daf2e9828310140) tweaks
+- hide email from footer if [none is given](https://github.com/MountainWestDLS/MountainWestDLS.github.io/commit/2d5c6068b1fa484d44293b1459c1f0611848523f)
+- add [Google](https://github.com/MountainWestDLS/MountainWestDLS.github.io/commit/f9b379fa0d8268e9e00dae7fc43e504e6dce74ff) [maps](https://github.com/MountainWestDLS/MountainWestDLS.github.io/commit/44f6c793112ae6ebaccfbddfff42357a09a0ccde) [component](https://github.com/MountainWestDLS/MountainWestDLS.github.io/commit/5f1ddca131d6e944756255534ada361d6eef7b1f)
+- and other small tweaks (see commit history)
 
 ---------------------------------
 
