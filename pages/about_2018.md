@@ -4,7 +4,7 @@ title: About
 permalink: /about_2018/
 ---
 
-The Mountain West Data Librarian Symposium will be hosted by the University of Colorado, Boulder and will take place on August 13-14, 2018 in Boulder, Colorado.
+The Mountain West Data Librarian Symposium will be hosted by the University of Colorado Boulder and will take place on August 13-14, 2018 in Boulder, Colorado.
 
 The Mountain West Data Librarian Symposium is intended to provide librarians located in the Mountain West region who work with research data management issues the chance to network and gain valuable training. However, it is open to all who wish to attend, including future data librarians and data librarians located outside the Mountain West region. Registration will be capped at 60 attendees.
 
@@ -17,7 +17,7 @@ The meeting is modeled after the successful Midwest Data Librarian Symposium, no
 - **Wladimir Labeikovsky**; Bioinformationist; University of Colorado, Anschutz Medical Campus
 - **Tobin Magle**; Cyberinfrastructure Facilitator, Colorado State University
 - **Tisha Mentnech**; Research Librarian, University of Utah
-- **Katie Mika**; Data Services Librarian, University of Colorado, Boulder (2018 Host Representative)
+- **Katie Mika**; Data Services Librarian, University of Colorado Boulder (2018 Host Representative)
 - **Jenny Muilenburg**; Research Data Services Librarian, University of Washington 
 - **Matthew Murray**; Library Fellow, Scholarly Communication Initiatives; University of Nevada, Las Vegas
 - **Fernando Rios**; Research Data Management Specialist, University of Arizona
