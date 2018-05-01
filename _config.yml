@@ -10,8 +10,9 @@ exclude:
 
 # Site settings
 title: Mountain West Data Librarian Symposium
-subtitle: "August 13-14, 2018"
-email: "University of Colorado Boulder"
+subtitle: "August 13-14, 2018
+<br> University of Colorado Boulder"
+email: MountainWestDLS@gmail.com
 name: Mountain West Data Librarian Symposium
 description: >
   Official website of the Mountain West Data Librarian Symposium
@@ -72,8 +73,8 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: MountainDataLib
-    url: https://twitter.com/mountaindatalib
+    username: MountainWestDLS
+    url: https://twitter.com/MountainWestDLS
     desc: Follow us on Twitter
     share: true
 
