@@ -23,4 +23,4 @@ The meeting is modeled after the successful Midwest Data Librarian Symposium, no
 - **Fernando Rios**; Research Data Management Specialist, University of Arizona
 - **Amanda K. Sprochi**; Health Sciences Cataloger, University of Missouri
 
-Questions should be directed to mountaindatalibrarian@gmail.com. Follow this site or @MountainDataLib on Twitter for updates!
+Questions should be directed to MountainWestDLS@gmail.com. Follow this site or [@MountainWestDLS](https://twitter.com/@MountainWestDLS) on Twitter for updates!
