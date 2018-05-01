@@ -13,7 +13,7 @@ permalink: /about_2018/
 ## Planning Committee
 
 - **Chealsye Bowley; Community Manager, Ubiquity Press (Chair)**
-- **Teresa Auch Schultz; Scholarly Communications and Copyright Librarian, University of Nevada, Reno**
+- **Teresa Auch Schultz; Social Sciences Librarian, University of Nevada, Reno**
 - **Wladimir Labeikovsky; Bioinformationist; University of Colorado, Anschutz Medical Campus**
 - **Tobin Magle; Cyberinfrastructure Facilitator, Colorado State University**
 - **Tisha Mentnech; Research Librarian, University of Utah**
