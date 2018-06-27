@@ -8,9 +8,8 @@ permalink: /registration_2018/
 Regular rate: $35<br>
 Student rate: $15
 
+<button name="button" onclick="alert('Coming soon')">Register</button><br>
 *Registration includes coffee/tea and lunch*
-
-<button name="button" onclick="alert('Coming soon')">Register</button>
 
 ### Laboratory for Atmospheric and Space Physics (LASP) Tour
 The MWDLS is offering an optional complimentary tour of the Laboratory for Atmosphere and Space Physics (LASP) on CU Boulder’s East Campus. Visiting LASP is similar to touring an aerospace museum. Hanging from the ceiling of the lobby is a 26-foot Aerobee 150 sounding rocket along with many other interesting spacecraft and historical objects. Visitors will view models of different spacecraft and satellites, a class-10,000 clean room, a machine shop for building instruments, and the Mission Operations Center from which satellites are operated.
