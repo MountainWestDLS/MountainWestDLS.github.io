@@ -8,7 +8,7 @@ permalink: /registration_2018/
 Regular rate: $35<br>
 Student rate: $15
 
-<button name="button" onclick="alert('Coming soon')">Register</button><br>
+<button name="button" onclick="https://events.cu.edu/MWDLS2018">Register</button><br>
 *Registration includes coffee/tea and lunch*
 
 ### Laboratory for Atmospheric and Space Physics (LASP) Tour
