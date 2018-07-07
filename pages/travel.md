@@ -11,12 +11,12 @@ The Mountain West Data Librarian Symposium will be hosted by the University of C
 The following are great options for staying near the conference venue: 
 <p>
 <a href="https://www.airbnb.com/">AirBnB</a> - Price ranges, but single room accomodations will likely be the cheapest option during the symposium. 
-<a href="Boulder University Inn">https://www.boulderuniversityinn.com/</a> - $202, corner of campus, 0.6 miles / 12 minute walk to Library
-<a href="Millenium Harvest House">https://www.millenniumhotels.com/en/boulder/millennium-harvest-house-boulder/</a> - $130, 0.6 miles / 11 minute walk to Library
-<a href="Embassy Suites Hilton Boulder">http://embassysuites3.hilton.com/en/hotels/colorado/embassy-suites-by-hilton-boulder-DENBOES/index.html</a> - $165-215, 1.1 miles / 24 minute walk to Library
-<a href="Residence Inn Boulder">https://www.marriott.com/hotels/travel/vbobl-residence-inn-boulder-canyon-boulevard/</a> - $195, 1.0 miles / 23 minute walk to Library
-<a href="Hotel Boulderado">https://www.boulderado.com/</a> - $290, downtown location, 1.0 miles / 23 minute walk to Library
-<a href="Rodeway Inn and Suites">https://www.millenniumhotels.com/en/boulder/millennium-harvest-house-boulder/</a> - $91, motel farther away from restaurants, 1.6 miles / 31 minute walk to Library but recommended to take transit
+<a href="https://www.boulderuniversityinn.com/">Boulder University Inn</a> - $202, corner of campus, 0.6 miles / 12 minute walk to Library
+<a href="Millenium Harvest Househttps://www.millenniumhotels.com/en/boulder/millennium-harvest-house-boulder/">Millenium Harvest House</a> - $130, 0.6 miles / 11 minute walk to Library
+<a href="http://embassysuites3.hilton.com/en/hotels/colorado/embassy-suites-by-hilton-boulder-DENBOES/index.html">Embassy Suites Hilton Boulder</a> - $165-215, 1.1 miles / 24 minute walk to Library
+<a href="https://www.marriott.com/hotels/travel/vbobl-residence-inn-boulder-canyon-boulevard/">Residence Inn Boulder</a> - $195, 1.0 miles / 23 minute walk to Library
+<a href="https://www.boulderado.com/">Hotel Boulderado</a> - $290, downtown location, 1.0 miles / 23 minute walk to Library
+<a href="https://www.choicehotels.com/colorado/boulder/rodeway-inn-hotels/co223">Rodeway Inn and Suites</a> - $91, motel farther away from restaurants, 1.6 miles / 31 minute walk to Library but recommended to take transit
 
 
 Lower rates may be available through third party travel booking websites. If you are driving to the symposium, there may be cheaper hotels within a 20 minute drive of the venue.
