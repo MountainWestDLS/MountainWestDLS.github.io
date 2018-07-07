@@ -28,8 +28,8 @@ The following are great options for staying near the conference venue:
 Lower rates may be available through third party travel booking websites. If you are driving to the symposium, there may be cheaper hotels within a 20 minute drive of the venue.
 <p>
 Please check travel distance from your accomodation to the conference venue before booking. Boulder is highly walkable, but some routes have hills and will present challenges for anyone with differences in mobility. Public buses, Uber, and Lyft are available in Boulder if you need.
-
 <p>
+  
 ## Travel
 <p>
 Getting to Boulder from the Denver International Airport is easy! Downtown Boulder is located 45 minutes by car from the airport, or 1 hour by public bus. We recommend taking the public bus, which is a nice coach bus and costs only $9.00. Taxi fares to Boulder will likely be $60+ with shared ride services averaging between $40 - 80. 
@@ -41,14 +41,17 @@ You can view <a href="http://www3.rtd-denver.com/schedules/getSchedule.action?ru
 The bus station is located 0.9 miles from the conference venue.
 
 <p>
+  
 ## Food
 <p>
 Food suggestions and dine-arounds will be available in August 2018.
 <p>
+  
 ## Visitor Parking
 <p>
 Visitor parking information will be available in August 2018. Parking will still require walking across campus to the venue unless you have a handicap accessible parking pass.
 <p>
+  
 ## Questions
 <p>
-Questions should be directed to MountainWestDLS@gmail.com. Follow this site or [@MountainWestDLS](https://twitter.com/@MountainWestDLS) on Twitter for updates!
+Questions should be directed to MountainWestDLS@gmail.com. Follow this site or <a href="https://twitter.com/@MountainWestDLS">@MountainWestDLS</a> on Twitter for updates!
