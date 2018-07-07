@@ -9,7 +9,8 @@ The Mountain West Data Librarian Symposium will be hosted by the University of C
 ## Accomodation
 
 The following are great options for staying near the conference venue: 
-<a href="https://www.airbnb.com/"><AirBnB> - Price ranges, but single room accomodations will likely be the cheapest option during the symposium. 
+<p>
+<a href="https://www.airbnb.com/">AirBnB</a> - Price ranges, but single room accomodations will likely be the cheapest option during the symposium. 
 <a href="Boulder University Inn">https://www.boulderuniversityinn.com/</a> - $202, corner of campus, 0.6 miles / 12 minute walk to Library
 <a href="Millenium Harvest House">https://www.millenniumhotels.com/en/boulder/millennium-harvest-house-boulder/</a> - $130, 0.6 miles / 11 minute walk to Library
 <a href="Embassy Suites Hilton Boulder">http://embassysuites3.hilton.com/en/hotels/colorado/embassy-suites-by-hilton-boulder-DENBOES/index.html</a> - $165-215, 1.1 miles / 24 minute walk to Library
