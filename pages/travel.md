@@ -16,7 +16,7 @@ The following are great options for staying near the conference venue:
 <a href="https://www.boulderuniversityinn.com/">Boulder University Inn</a> - $202, corner of campus, 0.6 miles / 12 minute walk to Library
     </p>
   <p>
-<a href="Millenium Harvest Househttps://www.millenniumhotels.com/en/boulder/millennium-harvest-house-boulder/">Millenium Harvest House</a> - $130, 0.6 miles / 11 minute walk to Library
+<a href="https://www.millenniumhotels.com/en/boulder/millennium-harvest-house-boulder/">Millenium Harvest House</a> - $130, 0.6 miles / 11 minute walk to Library
       </p>
   <p>
 <a href="http://embassysuites3.hilton.com/en/hotels/colorado/embassy-suites-by-hilton-boulder-DENBOES/index.html">Embassy Suites Hilton Boulder</a> - $165-215, 1.1 miles / 24 minute walk to Library
