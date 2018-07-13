@@ -40,18 +40,18 @@ You can view <a href="http://www3.rtd-denver.com/schedules/getSchedule.action?ru
 <p>
 The bus station is located 0.9 miles from the conference venue.
 
-</p>
+
   
-### Food
+## Food
 <p>
 Food suggestions and dine-arounds will be available in August 2018.
-</p>
+
   
-###  Visitor Parking
+##  Visitor Parking
 <p>
 Visitor parking information will be available in August 2018. Parking will still require walking across campus to the venue unless you have a handicap accessible parking pass.
-</p>
+
   
-### Questions
+## Questions
 <p>
 Questions should be directed to MountainWestDLS@gmail.com. Follow this site or <a href="https://twitter.com/@MountainWestDLS">@MountainWestDLS</a> on Twitter for updates!
