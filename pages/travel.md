@@ -31,7 +31,7 @@ Please check travel distance from your accomodation to the conference venue befo
 </p>
   
 ## Travel
-<p>
+
 Getting to Boulder from the Denver International Airport is easy! Downtown Boulder is located 45 minutes by car from the airport, or 1 hour by public bus. We recommend taking the public bus, which is a nice coach bus and costs only $9.00. Taxi fares to Boulder will likely be $60+ with shared ride services averaging between $40 - 80. 
 <p>
 When exiting the airport, follow signs for “Public Transit” or “RTD Station.” You’ll go down escalators or take an elevator to the station. Bus tickets can be purchased at machines on this level, through the RTD phone app, or with cash on the bus (no change provided). The bus leaves from gate 8.
@@ -43,12 +43,12 @@ The bus station is located 0.9 miles from the conference venue.
 </p>
   
 ## Food
-<p>
+
 Food suggestions and dine-arounds will be available in August 2018.
 </p>
   
 ## Visitor Parking
-<p>
+
 Visitor parking information will be available in August 2018. Parking will still require walking across campus to the venue unless you have a handicap accessible parking pass.
 </p>
   
