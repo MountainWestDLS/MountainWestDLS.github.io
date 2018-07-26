@@ -39,7 +39,7 @@ Time            | Description
 *10:45 - 12:00* | • Workshop 3: Delivering Data Instruction: Tools, Tips, and Tricks
 *12:00 - 1:15*  | • Lunch <br> • Birds-of-a-feather discussions
 *1:15 - 1:30*   | • Break
-*1:30 - 2:30*   | • Unconference session 3
+*1:30 - 2:30*   | • Lighting Talks
 *2:30 - 3:00*   | • Break
 *3:00 - 4:30*   | • Unconference session 4
 *4:30 - 5:00*   | • Wrap-up
