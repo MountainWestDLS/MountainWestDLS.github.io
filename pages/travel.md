@@ -51,7 +51,15 @@ The bus station is located 0.9 miles from the conference venue.
   
 ## Food
 <p></p>
-Food suggestions and dine-arounds will be available in August 2018.
+<a href="http://boulderteahouse.com/">Dushanbe Tea House</a> - $$
+<a href="https://www.oakatfourteenth.com/dinner/">Oak</a> - $$$
+<a href="https://www.airbnb.com/">Salt</a>Salt - $$$
+<a href="https://www.airbnb.com/">Pizzeria Locale</a> - $$
+<a href="https://www.airbnb.com/">Mountain Sun Pub & Brewery</a> - $$
+<a href="https://www.airbnb.com/">The Med</a> - $$
+<a href="https://www.airbnb.com/">Zoe Ma Ma</a> - $
+<p>
+  We'll be doing dine-arounds in groups of 5-6 on Monday night. You can <a href="https://docs.google.com/spreadsheets/d/1PFFMrII2xWAjYFpPNgvs8lx4pHsCDVofowAr8aWLbMY/edit?usp=sharing">sign up here</a>!
 <p></p>
   
 ##  Visitor Parking
