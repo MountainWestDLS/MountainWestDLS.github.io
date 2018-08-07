@@ -52,12 +52,11 @@ The bus station is located 0.9 miles from the conference venue.
 ## Food
 <p></p>
 <a href="http://boulderteahouse.com/">Dushanbe Tea House</a> - $$
-</p>
   <p>
 <a href="https://www.oakatfourteenth.com/dinner/">Oak</a> - $$$
   </p>
   <p>
-<a href="http://saltthebistro.com/menu/">Salt</a>Salt - $$$
+<a href="http://saltthebistro.com/menu/">Salt</a> - $$$
   </p>
   <p>
 <a href="https://localeboulder.com/">Pizzeria Locale</a> - $$
