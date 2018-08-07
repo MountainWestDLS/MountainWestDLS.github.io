@@ -74,6 +74,7 @@ The bus station is located 0.9 miles from the conference venue.
 <p>
   We'll be doing dine-arounds in groups of 5-6 on Monday night. You can <a href="https://docs.google.com/spreadsheets/d/1PFFMrII2xWAjYFpPNgvs8lx4pHsCDVofowAr8aWLbMY/edit?usp=sharing">sign up here</a>!
 <p></p>
+<p>
   
 ##  Visitor Parking
 <p></p>
