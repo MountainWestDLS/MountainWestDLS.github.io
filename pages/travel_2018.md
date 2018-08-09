@@ -75,11 +75,9 @@ The bus station is located 0.9 miles from the conference venue.
   We'll be doing dine-arounds in groups of 5-6 on Monday night. You can <a href="https://docs.google.com/spreadsheets/d/1PFFMrII2xWAjYFpPNgvs8lx4pHsCDVofowAr8aWLbMY/edit?usp=sharing">sign up here</a>!
 </p>
 
-  
 ## Visitor Parking
 
 A map of CU Boulder parking options can be found [here](https://www.colorado.edu/pts/sites/default/files/attached-files/ucb_parking_map_1819.pdf). Lots color coded in pink are available for short-term/metered parking. We recommend Euclid Parking Garage as it has many spots for guest parking and is within walking distance of Norlin Library. Parking will still require walking across campus to the venue unless you have a handicap accessible parking pass.
   
 ## Questions
-
 Questions should be directed to MountainWestDLS@gmail.com. Follow this site or [@MountainWestDLS](https://twitter.com/@MountainWestDLS) on Twitter for updates!
