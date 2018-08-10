@@ -20,28 +20,32 @@ Time            | Description
 *8:30*          | • Registration desk opens
 *9:00 - 9:30*   | • Welcome <br> • Coffee & tea
 *9:30 - 11:00*  | • Workshop 1: Data Lit through Data Viz
-*11:00 - 12:15* | • Unconference session 1
+*11:00 - 11:15* | • Break & Networking
+*11:15 - 12:15* | • Unconference session 1: Data Visualization 
 *12:15 - 1:15*  | • Lunch <br> • Birds-of-a-feather discussions
-*1:15 - 1:30*   | • Break
-*1:30 - 3:00*   | • Unconference session 2
-*3:00 - 3:30*   | • Travel to LASP on CU East Campus
+*1:15 - 1:25*   | • Break & Networking
+*1:25 - 2:25*   | • Unconference session 2: Data Curation
+*2:25 - 2:50*   | • Day 1 Wrap Up
+*2:50 - 3:30*   | • Travel to LASP on CU East Campus
 *3:30 - 4:30*   | • [LASP tour](/registration_2018/#laboratory-for-atmospheric-and-space-physics-lasp-tour) (optional)
-*6:30*          | • Dine arounds
+*6:15 / 6:30*   | • Dine arounds(https://docs.google.com/spreadsheets/d/1PFFMrII2xWAjYFpPNgvs8lx4pHsCDVofowAr8aWLbMY/edit)
 
 
 ### Tuesday, August 14
 
 Time            | Description
 --------------- | ---------------------------
-*9:00 - 9:20*   | • Welcome <br> • Coffee & tea
+*9:00 - 9:20*   | • Coffee & tea
+*9:00 - 9:20*   | • Welcome • Robert McDonald, Dean, University of Colorado Boulder Libraries
 *9:20 - 10:30*  | • Workshop 2: Pseudoreplication and Its Relationship to Irreproducible Results
-*10:30 - 10:45* | • Break
+*10:30 - 10:45* | • Break & Networking
 *10:45 - 12:00* | • Workshop 3: Delivering Data Instruction: Tools, Tips, and Tricks
-*12:00 - 1:15*  | • Lunch <br> • Birds-of-a-feather discussions
-*1:15 - 1:30*   | • Break
-*1:30 - 2:30*   | • Lighting Talks
-*2:30 - 3:00*   | • Break
-*3:00 - 4:30*   | • Unconference session 3
+*12:00 - 1:00*  | • Lunch <br> • Birds-of-a-feather discussions
+*1:00 - 2:00*   | • Lighting Talks
+*2:00 - 2:15*   | • Break & Networking
+*2:15 - 3:15*   | • Unconference session 3: Data Citation
+*1:30 - 2:30*   | • Break & Networking
+*2:30 - 3:00*   | • Unconference session 4: Topic to be proposed on day 1
 *4:30 - 5:00*   | • Wrap-up
 
 ### Workshops
