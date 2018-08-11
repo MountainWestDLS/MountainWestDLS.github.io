@@ -28,7 +28,7 @@ Time            | Description
 *2:25 - 2:50*   | • Day 1 Wrap Up
 *2:50 - 3:30*   | • Travel to LASP on CU East Campus
 *3:30 - 4:30*   | • [LASP tour](/registration_2018/#laboratory-for-atmospheric-and-space-physics-lasp-tour) (optional)
-*6:15 / 6:30*   | • Dine arounds(https://docs.google.com/spreadsheets/d/1PFFMrII2xWAjYFpPNgvs8lx4pHsCDVofowAr8aWLbMY/edit)
+*6:15 / 6:30*   | • [Dine arounds](https://docs.google.com/spreadsheets/d/1PFFMrII2xWAjYFpPNgvs8lx4pHsCDVofowAr8aWLbMY/edit)
 
 
 ### Tuesday, August 14
