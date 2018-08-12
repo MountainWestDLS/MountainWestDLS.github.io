@@ -44,8 +44,8 @@ Time            | Description
 *1:00 - 2:00*   | • Lighting Talks
 *2:00 - 2:15*   | • Break & Networking
 *2:15 - 3:15*   | • Unconference session 3: Data Citation
-*1:30 - 2:30*   | • Break & Networking
-*2:30 - 3:00*   | • Unconference session 4: Topic to be proposed on day 1
+*3:15 - 3:30*   | • Break & Networking
+*3:30 - 4:30*   | • Unconference session 4: Topic to be proposed on day 1
 *4:30 - 5:00*   | • Wrap-up
 
 ### Workshops
