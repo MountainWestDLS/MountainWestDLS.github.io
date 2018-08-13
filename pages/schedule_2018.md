@@ -13,7 +13,7 @@ Boulder, Colorado 80309<br>
 
 Below is the schedule for the 2018 symposium. The schedule will be finalized by early August with unconference topics listed.
 
-(Slides available on the OSF)[https://osf.io/view/MWDLS2018]
+[Slides available on the OSF](https://osf.io/view/MWDLS2018)
 
 ### Monday, August 13
 
