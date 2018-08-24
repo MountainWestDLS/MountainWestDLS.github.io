@@ -11,7 +11,7 @@ Center for British and Irish Studies, Norlin Library, University of Colorado Bou
 Boulder, Colorado 80309<br>
 [Map](/registration_2018/#location)
 
-Below is the schedule for the 2018 symposium. The schedule will be finalized by early August with unconference topics listed.
+Below is the schedule for the 2018 symposium.
 
 [Slides available on the OSF](https://osf.io/view/MWDLS2018)
 
