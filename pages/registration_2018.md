@@ -4,7 +4,7 @@ title: Registration
 permalink: /registration_2018/
 ---
 
-### Registration - Closes August 2
+### Registration - Closed August 2, 2018
 Regular rate: $35<br>
 Student rate: $15
 
